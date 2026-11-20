@@ -51,7 +51,7 @@ class HomePage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const Text(
-              'আসসালামু আলাইকুম!',
+              নমস্কার',
               style: TextStyle(
                 fontSize: 23,
                 fontWeight: FontWeight.bold,
